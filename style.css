@@ -53,6 +53,9 @@ h2 {
     color: aliceblue;
     
 }
+#My Favourite painting{
+    background: linear-gradient(green, yellow);
+}
 
 .line {
     height: 6px;
@@ -108,3 +111,7 @@ a{
 img:hover{
 transform: scale(0.9);
 }
+.section2{
+    background: linear-gradient(green, yellow);
+}
+
